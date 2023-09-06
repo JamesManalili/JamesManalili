@@ -1,13 +1,13 @@
-<span style="font-size:100px; font-weight:bold;">Hello! I'm James I. Manalili. I'm currently studying at New Era University.</span>
+__Hello! I'm James I. Manalili. I'm currently studying at New Era University.__
 
-### Education
-- #### College
+__Education__
+- __College__
 
   BS in Computer Science
 
   2021 -  Present
 
-### Certificates 
+__Certificates__ 
 
 __IBM Corporation__
   
