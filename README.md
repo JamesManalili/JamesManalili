@@ -30,6 +30,10 @@ __Webinar__
 
   May 3, 2021
 
+- [Tech 101: Basic Written Communication](https://drive.google.com/file/d/1SHyCP_LWF1q0OavUvBmC2kNaZJClhRhw/view?usp=sharing)
+
+  November 11, 2022
+
 - [Version Control - Tracking and Managing Changes to Software Code](https://drive.google.com/file/d/1Lhbu_OJG0dmqQUX90J857_CvSpM9JgjW/view?usp=sharing)
 
   November 18, 2022
