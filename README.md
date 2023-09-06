@@ -1,4 +1,4 @@
-## Hello! I'm James Manalili studying at New Era University
+## Hello! I'm James Manalili. I'm currently studying at New Era University.
 
 ### Education
 - #### College
