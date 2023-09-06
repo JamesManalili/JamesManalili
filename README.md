@@ -1,4 +1,4 @@
-## Hello! I'm James Manalili. I'm currently studying at New Era University.
+<span style="font-size:100px; font-weight:bold;">Hello! I'm James I. Manalili. I'm currently studying at New Era University.</span>
 
 ### Education
 - #### College
@@ -8,6 +8,7 @@
   2021 -  Present
 
 ### Certificates 
+
 __IBM Corporation__
   
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)
