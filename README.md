@@ -10,6 +10,8 @@
 ### Certificates 
 - [Artificial Intelligence with Machine Learning](https://drive.google.com/file/d/1Ly7AWUXXeI3PdqnC27q9SfOdZ1Ld58s8/view?usp=sharing)
 
+  May 3, 2021
+
 
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)
 
