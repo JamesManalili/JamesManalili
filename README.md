@@ -1,4 +1,7 @@
-## Hello! I'm James I. Manalili. I'm currently studying at New Era University.
+## Hello! I'm James I. Manalili. 
+__I'm currently studying at New Era University.__
+
+
 
 __Education__
 - __College__
