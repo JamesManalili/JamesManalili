@@ -3,3 +3,6 @@
 ### Education
 - BS in Computer Science
 - 2021 -  Present
+
+### Certificate
+- Oracle Cloud Infrastructure 2022 Certified Foundations 
