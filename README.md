@@ -28,6 +28,13 @@ __Oracle Corporation__
 
   November 23, 2022
 
+__SIMPLILEAR__
+
+- [Business Analytics with Excel](https://drive.google.com/file/d/1MXpDo913YWPWCJir9z0ni_NP3T1hSLy7/view?usp=sharing)
+
+  September 6, 2023
+  
+
 __Webinar__
   
 - [Artificial Intelligence with Machine Learning](https://drive.google.com/file/d/1Ly7AWUXXeI3PdqnC27q9SfOdZ1Ld58s8/view?usp=sharing)
