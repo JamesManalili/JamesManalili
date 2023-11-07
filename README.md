@@ -1,9 +1,8 @@
 ![istockphoto-1224500457-612x612](https://github.com/JamesManalili/JamesManalili/assets/142465145/39e9f79d-f24f-4c50-8912-59ea9027320b)
-
 <h1 align="center">James I. Manalili</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/manalilijames-i-b08ba7257/">
+    <a href="https://www.linkedin.com/in/manalilijamesi/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto: jamesmanalili2002@gmail.com">
