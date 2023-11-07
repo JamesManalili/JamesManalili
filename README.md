@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/JamesManalili/JamesManalili/assets/142465145/6af7f7d1-a37e-48e8-8055-9bac42b54919)
+![istockphoto-1224500457-612x612](https://github.com/JamesManalili/JamesManalili/assets/142465145/39e9f79d-f24f-4c50-8912-59ea9027320b)
+
 <h1 align="center">James I. Manalili</h1>
 
 <p align="center">
