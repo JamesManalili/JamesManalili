@@ -28,7 +28,7 @@
 
 - __Senior High School__
   
-  Information Communication Technology | Access Computer College
+  Information and Communication Technology | Access Computer College
   
   2019 - 2021
 
