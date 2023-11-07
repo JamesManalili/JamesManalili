@@ -1,5 +1,20 @@
-## Hello! I'm James I. Manalili. 
-__I'm currently studying at New Era University.__
+[![MasterHead](https://github.com/JamesManalili/JamesManalili/assets/142465145/6af7f7d1-a37e-48e8-8055-9bac42b54919)
+<h1 align="center">James I. Manalili</h1>
+
+<p align="center">
+    <a href="www.linkedin.com/in/manalilijamesi">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto: jamesmanalili2002@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
+    </a>
+    <a href="https://www.facebook.com/manalilijamess">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://t.me/jamesmanalili02">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+</p>
 
 
 
