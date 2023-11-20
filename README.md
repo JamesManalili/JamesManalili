@@ -1,5 +1,5 @@
-![istockphoto-1224500457-612x612](https://github.com/JamesManalili/JamesManalili/assets/142465145/39e9f79d-f24f-4c50-8912-59ea9027320b)
-<h1 align="center">James I. Manalili</h1>
+
+![Headers](https://github.com/JamesManalili/JamesManalili/assets/142465145/9726ce36-a48b-4a93-adf7-9f721b7548a2)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/manalilijamesi/">
