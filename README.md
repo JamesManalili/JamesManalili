@@ -31,9 +31,6 @@
   Information and Communication Technology | Access Computer College
   
   2019 - 2021
-
-## Certificates
-
   
 ## Certifications
 
