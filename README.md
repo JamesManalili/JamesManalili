@@ -35,25 +35,28 @@
 ## Certificates
 
   
-- __[SQL and Relational Databases 101](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)__
+## Certifications
 
-  October 25, 2022
+- __[Mastering C++ Language - C++ Programming For Beginners](https://www.udemy.com/certificate/UC-3418bdfa-15a9-4134-a557-2faa665b1b38/)__
 
-- __[Oracle Cloud Infrastructure 2022 Certified Foundations](https://drive.google.com/file/d/1LZOW-hlJUYLQ_tiiAZJg2i83tmcm_KhH/view?usp=sharing)__
-
-  November 8, 2022
-  
-- __[Oracle Cloud Data Management 2022 Foundations Certified Associate](https://drive.google.com/file/d/1Lb-_DATBYkIYjd8hQPFJDo4HYil5Kugh/view?usp=sharing)__
-
-  November 23, 2022
+  March 19, 2024
 
 - __[Business Analytics with Excel](https://drive.google.com/file/d/1MXpDo913YWPWCJir9z0ni_NP3T1hSLy7/view?usp=sharing)__
 
   September 6, 2023
-  
-- __[Mastering C++ Language - C++ Programming For Beginners](https://www.udemy.com/certificate/UC-3418bdfa-15a9-4134-a557-2faa665b1b38/)__
 
-  March 19, 2024
+- __[Oracle Cloud Data Management 2022 Foundations Certified Associate](https://drive.google.com/file/d/1Lb-_DATBYkIYjd8hQPFJDo4HYil5Kugh/view?usp=sharing)__
+
+  November 23, 2022
+
+- __[Oracle Cloud Infrastructure 2022 Certified Foundations](https://drive.google.com/file/d/1LZOW-hlJUYLQ_tiiAZJg2i83tmcm_KhH/view?usp=sharing)__
+
+  November 8, 2022
+
+- __[SQL and Relational Databases 101](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)__
+
+  October 25, 2022
+
 
 
 
