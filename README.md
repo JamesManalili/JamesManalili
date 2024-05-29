@@ -38,6 +38,14 @@
 
   March 19, 2024
 
+- __[Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/fcbc2612069755cfa612fef9feca5673ed49545f?raw=1)__
+
+  November 10, 2023
+
+- __[Intro to Programming - Python](https://www.kaggle.com/learn/certification/jamesimanalili/intro-to-programming)__
+
+  November 9, 2023
+
 - __[Business Analytics with Excel](https://drive.google.com/file/d/1MXpDo913YWPWCJir9z0ni_NP3T1hSLy7/view?usp=sharing)__
 
   September 6, 2023
