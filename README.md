@@ -51,7 +51,7 @@
 
   September 6, 2023
   
-- __[Mastering C++ Language - C++ Programming For Beginners](ude.my/UC-3418bdfa-15a9-4134-a557-2faa665b1b38)__
+- __[Mastering C++ Language - C++ Programming For Beginners](https://www.udemy.com/certificate/UC-3418bdfa-15a9-4134-a557-2faa665b1b38/)__
 
   March 19, 2024
 
