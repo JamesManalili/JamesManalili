@@ -1,5 +1,5 @@
 
-![Headers](https://github.com/JamesManalili/JamesManalili/assets/142465145/9726ce36-a48b-4a93-adf7-9f721b7548a2)
+![Headers](![Screenshot 2024-07-11 100333](https://github.com/JamesManalili/JamesManalili/assets/142465145/aadd1fa7-7477-47f7-8a8a-e2d9506e544f))
 
 <p align="center">
     <a href="https://www.linkedin.com/in/manalilijamesi/">
