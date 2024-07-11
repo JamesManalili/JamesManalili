@@ -8,16 +8,10 @@
     <a href="mailto: jamesmanalili2002@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
     </a>
-    <a href="https://www.facebook.com/manalilijamess">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
     <a href="https://t.me/jamesmanalili02">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </p>
-
-## Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ## Education
 - __College__
@@ -33,6 +27,10 @@
   2019 - 2021
   
 ## Certifications
+
+- __[FCF - Introduction to the Threat Landscape 2.0 Self-Paced](https://drive.google.com/file/d/1REaQf3gOOkzpAT9a-oOvub3bTu9PJoHq/view?usp=sharing)__
+
+  July 2024
 
 - __[Introduction to Data Analytics](https://drive.google.com/file/d/1SLnbahiF4UkZ0v-zPAQ8Oo4FlwrMcpos/view?usp=sharing)__
 
@@ -74,6 +72,44 @@
 
   October 25, 2022
 
+## Tech Achievements
 
+- __Power Bi and Tableau Projects__
 
+  - [Snack Report Using Dax](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)
 
+  - [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZDE4ZGE2MjUtYzU5NC00M2U0LTk2YjMtYzZlNDc0Nzg5NWM1IiwidCI6IjdiMGQ1ZjRlLWEwMGMtNDhmYS05NzRkLWZkNDNkZmVkMGQ3MyIsImMiOjEwfQ%3D%3D)
+ 
+  - [ProElect4 Engagemnet Report](https://app.powerbi.com/view?r=eyJrIjoiNTViYTBkZWMtYjJlNC00NjYyLTg4ZjktOWExNTY4M2MwMzAyIiwidCI6IjdiMGQ1ZjRlLWEwMGMtNDhmYS05NzRkLWZkNDNkZmVkMGQ3MyIsImMiOjEwfQ%3D%3D)
+
+  - [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17147302558290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- __SoftEng Design Pattern__
+
+  - [Visitor Pattern](https://github.com/JamesManalili/Visitor-Design-Pattern.git)
+
+  - [Chain of Responsibility Design Pattern](https://github.com/JamesManalili/Chain-of-Responsibility-Design-Pattern.git)
+
+  - [State Pattern](https://github.com/JamesManalili/StatePattern.git)
+    
+  - [Strategy Pattern](https://github.com/JamesManalili/StrategyPatternLAB2.git)
+
+  - [Builder Pattern](https://github.com/JamesManalili/BuilderPattern.git)
+ 
+- __Other Achievements__
+
+  - [Mini Java Compiler](https://github.com/JamesManalili/MiniJavaCompiler.git)
+ 
+  - [Projects in Data Structure Algorithm](https://github.com/JamesManalili/Data-Structures-and-Algorithms.git)
+ 
+  - [Projects in Discrete Structure Algorithm](https://github.com/JamesManalili/Discrete-Structures-and-Algorithms.git)
+ 
+  - [Object Oriented Programming Projects](https://github.com/JamesManalili/Object-oriented-programming.git)
+ 
+  - [Fundamentals of Programming Projects](https://github.com/JamesManalili/Fundamentals-of-Programming.git)
+
+## Skill Set 
+  - __Data Visualization Tools :__  PowerBI Desktop, Tableau Public, Excel
+  - __Programming Languages:__ Java, Python, C++, PHP
+  - __DBMS:__ DB2
+  - __Dev Tools:__ JasperSoft Studio, Lucidchart, Eclipse, IntelliJ, Pycharm, Visual Studio Code, Jupyter Notebook
