@@ -1,5 +1,7 @@
+<div style="pointer-events: none;">
+    <img src="https://github.com/JamesManalili/JamesManalili/assets/142465145/aadd1fa7-7477-47f7-8a8a-e2d9506e544f" alt="Headers">
+</div>
 
-![Headers](https://github.com/JamesManalili/JamesManalili/assets/142465145/aadd1fa7-7477-47f7-8a8a-e2d9506e544f)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/manalilijamesi/">
