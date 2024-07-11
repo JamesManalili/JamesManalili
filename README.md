@@ -34,6 +34,18 @@
   
 ## Certifications
 
+- __[Introduction to Data Analytics](https://drive.google.com/file/d/1SLnbahiF4UkZ0v-zPAQ8Oo4FlwrMcpos/view?usp=sharing)__
+
+  July 2024
+
+- __[Typescript : The New JavaScript for Web Development](https://drive.google.com/file/d/19H-RcssCYkyG_QuaCjqXH56claUGMy9I/view?usp=sharing)__
+
+  July 2024
+
+- __[Web Development for Beginners - Create your own Quiz Site](https://drive.google.com/file/d/1c4Fs4HiT6KWmaYixPMsq6tu5zcstCUrF/view?usp=sharing)__
+
+  July 2024
+
 - __[Mastering C++ Language - C++ Programming For Beginners](https://www.udemy.com/certificate/UC-3418bdfa-15a9-4134-a557-2faa665b1b38/)__
 
   March 19, 2024
