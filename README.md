@@ -76,11 +76,11 @@
 
 - __Power Bi and Tableau Projects__
 
-  - [Snack Report Using Dax](https://drive.google.com/file/d/1LfkTtZ3ohT6d0M51d7zJ29d8XPddS3LA/view?usp=sharing)
+  - [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiZmYzZGQ1MGUtNDI4NC00ZjM5LTkxM2UtMjg3MWNkNmMxNjEyIiwidCI6IjdiMGQ1ZjRlLWEwMGMtNDhmYS05NzRkLWZkNDNkZmVkMGQ3MyIsImMiOjEwfQ%3D%3D)
 
   - [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZDE4ZGE2MjUtYzU5NC00M2U0LTk2YjMtYzZlNDc0Nzg5NWM1IiwidCI6IjdiMGQ1ZjRlLWEwMGMtNDhmYS05NzRkLWZkNDNkZmVkMGQ3MyIsImMiOjEwfQ%3D%3D)
  
-  - [ProElect4 Engagemnet Report]()
+  - [ProElect4 Engagemnet Report](https://app.powerbi.com/view?r=eyJrIjoiMzdiODUxNzYtNDdhZi00MmQ4LWIzYzctOGQ4OWNhODZmZTZhIiwidCI6IjdiMGQ1ZjRlLWEwMGMtNDhmYS05NzRkLWZkNDNkZmVkMGQ3MyIsImMiOjEwfQ%3D%3D)
 
   - [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17147302558290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
