@@ -1,4 +1,4 @@
-[![Headers](https://github.com/JamesManalili/JamesManalili/assets/142465145/aadd1fa7-7477-47f7-8a8a-e2d9506e544f)]()
+
 
 
 <p align="center">
