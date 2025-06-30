@@ -95,15 +95,15 @@ __Event:__ International Conference on Information Technology Education (ICITE 2
 
 - __SoftEng Design Pattern__
 
-  - [Visitor Pattern](https://github.com/JamesManalili/Visitor-Design-Pattern.git)
+  - [Visitor Pattern](https://github.com/JamesManalili/DesignPatternJava/tree/main/Visitor%20Pattern)
 
-  - [Chain of Responsibility Design Pattern](https://github.com/JamesManalili/Chain-of-Responsibility-Design-Pattern.git)
+  - [Chain of Responsibility Design Pattern](https://github.com/JamesManalili/DesignPatternJava/tree/main/Chain%20of%20Responsibility%20Design%20Pattern)
 
-  - [State Pattern](https://github.com/JamesManalili/StatePattern.git)
+  - [State Pattern](https://github.com/JamesManalili/DesignPatternJava/tree/main/State%20Pattern)
     
-  - [Strategy Pattern](https://github.com/JamesManalili/StrategyPatternLAB2.git)
+  - [Strategy Pattern](https://github.com/JamesManalili/DesignPatternJava/tree/main/Strategy%20Pattern)
 
-  - [Builder Pattern](https://github.com/JamesManalili/BuilderPattern.git)
+  - [Builder Pattern](https://github.com/JamesManalili/DesignPatternJava/tree/main/Builder%20Pattern)
  
 - __Other Achievements__
 
