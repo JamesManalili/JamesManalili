@@ -20,7 +20,7 @@
 
   BS in Computer Science | New Era University
 
-  2021 -  Present
+  2021 -  June 2025
 
 - __Senior High School__
   
